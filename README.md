@@ -1,7 +1,13 @@
-# 10th DGK board Marks scraper
-### Step 1: Install the required dependencies.
-``pip install requirements.txt``
-### Step 2: Run the each script named Dataextraction.py or something like that.. 
-``python dataextraction1.py`` 
+# 10th DGK Board Marks Scraper 🎓
 
-## Wait and you will have a data cleanly inside 4 files.
+A Python tool designed to scrape and extract student marks data from the 10th Class DG Khan (DGK) Board results into clean, structured files.
+
+---
+
+## 🛠️ Getting Started
+
+### Step 1: Install Dependencies
+Install all required Python libraries using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
